@@ -1,1 +1,1 @@
-# tkinter-projects
+# Desktop Applications with Tkinter
