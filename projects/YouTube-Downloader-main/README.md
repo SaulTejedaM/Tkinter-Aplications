@@ -1,7 +1,7 @@
 # YouTube Downloader
 
 ## 📄 About 
-<p align = 'justify'> With this simple desktop application you can download Youtube videos using a simple interface (Fig. 1 Principal Interface).</p>
+<p align = 'justify'>With this Tkinter-based desktop application, you can download YouTube videos as a mp3 files. Simply paste the video URL into the application, select your desired save path, and let the program do the rest. This YouTube downloader is built using Python and the powerful Tkinter library, making it simple and fast.</p>
 
 
 ## 🔧 Software/Hardware Requierments
