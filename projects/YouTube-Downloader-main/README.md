@@ -17,7 +17,7 @@
   - Or you can also clone the repository by the following command:
   
   ````
-  git clone 
+  gh repo clone saulTejeda117/Tkinter-Projects
   ````
   
   - Run as administrator 'setup' EXE file
