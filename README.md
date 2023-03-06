@@ -9,22 +9,28 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
 
 <div align='center'>
 <table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>1.
-          <a href="https://github.com/saulTejeda117/Tkinter-Projects/tree/main/projects/Multi-Fuctional-Watch">
-            Multi-Functional Watch
-          </a>
-        </td>
-				<td>
-          Description of repository 1
-        </td>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.
+          			<a href="https://github.com/saulTejeda117/Tkinter-Projects/tree/main/projects/Multi-Fuctional-Watch">
+            				Multi-Functional Watch
+          			</a>
+        		</td>
+			<td>
+		 		• Stopwatch
+				<br>
+				• Timer with alarm
+				<br>
+				• Pomodoro Tacker
+				<br>
+				• Alarmclock
+        		</td>
 			</tr>
 			<tr>
 				<td>2.
