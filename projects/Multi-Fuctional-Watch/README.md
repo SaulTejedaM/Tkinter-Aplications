@@ -2,13 +2,16 @@
 
 ## 📄 About 
 <p align = 'justify'>
-This is a simple python application with GUI wich constains a digital watch with multiple functions:
+This is a simple desktop application developed with the Tkinter Python library, designed to provide users with a convenient and easy way to keep track of time and manage their tasks. This multifunctional watch includes the following features:
 </p>
 
 - Timer
 - Alarm Clock
 - Stopwatch
 - Pomodoro Timer
+
+
+
 
 ## 🔧 Software/Hardware Requierments
 - Python v.3.10 or greater
