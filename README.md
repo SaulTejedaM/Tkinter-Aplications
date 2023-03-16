@@ -49,7 +49,9 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             The fifteen Puzzle
           </a>
         </td>
-				<td>Description of repository 4</td>
+				<td>
+					The popular sliding puzzle game that challenges the players to rearrange tiles on a 4x4 grid.
+				</td>
 			</tr>
       <tr>
 				<td>5.
