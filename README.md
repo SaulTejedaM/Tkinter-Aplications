@@ -22,14 +22,8 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             				Multi-Functional Watch
           			</a>
         		</td>
-			<td>
-		 		• Stopwatch
-				<br>
-				• Timer with alarm
-				<br>
-				• Pomodoro Tacker
-				<br>
-				• Alarmclock
+			<td align='justify'>
+				Simple desktop application designed to provide onvenient and easy way to keep track of time and manage their tasks. This application contains many useful tools like: stopwatch, timer, alarmclock and pomodoro tracker.
         		</td>
 			</tr>
 			<tr>
