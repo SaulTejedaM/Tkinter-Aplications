@@ -6,7 +6,6 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
 </p>
 
 <br>
-
 <div align='center'>
 <table>
 	<thead>
@@ -32,7 +31,7 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             Personal Agenda
           </a>
         </td>
-				<td>Description of repository 2</td>
+				<td>Python-powered desktop app for personal scheduling, featuring an intuitive interface. Seamlessly manage and track events with ease. Installable for effortless access, empowering users to efficiently organize their lives.</td>
 			</tr>
 			<tr>
 				<td>3.
@@ -40,7 +39,7 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             Youtube Downloader
           </a>
         </td>
-				<td>Description of repository 3</td>
+				<td>Download YouTube videos effortlessly with this installable desktop app. Powered by Python, it offers a user-friendly interface for quickly accessing and saving youtube videos.</td>
 			</tr>
 			<!-- Add more rows as needed -->
       <tr>
@@ -49,9 +48,7 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             The fifteen Puzzle
           </a>
         </td>
-				<td>
-					The popular sliding puzzle game that challenges the players to rearrange tiles on a 4x4 grid.
-				</td>
+				<td>Installable Python desktop app for the classic game of fifteen. Enjoy hours of fun as you slide tiles to solve the puzzle and arrange them in the correct order. Simple, addictive, and perfect for quick breaks or leisurely challenges.</td>
 			</tr>
       <tr>
 				<td>5.
@@ -59,7 +56,7 @@ Welcome to Tkinter Projects repository! Here you can find a diverse collection o
             Scientific Calculator
           </a>
         </td>
-				<td>Description of repository 5</td>
+				<td>Powerful Python-based desktop app for scientific calculations. Perform complex mathematical operations, handle scientific notation, and explore advanced functions effortlessly. The installable calculator is a versatile tool for students, professionals, and enthusiasts seeking precision and efficiency.</td>
 			</tr>
 		</tbody>
 	</table>
